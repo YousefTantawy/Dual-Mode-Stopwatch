@@ -1,0 +1,12 @@
+09:16:10 **** Incremental Build of configuration Debug for project Dual-Mode StopWatch file ****
+make all 
+Building target: Dual-Mode StopWatch file.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Dual-Mode StopWatch file.map -mmcu=atmega32 -o "Dual-Mode StopWatch file.elf"  ./main.o   
+avr-gcc.exe: StopWatch: No such file or directory
+avr-gcc.exe: file.map: No such file or directory
+make: *** [Dual-Mode StopWatch file.elf] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+09:16:10 Build Failed. 1 errors, 0 warnings. (took 377ms)
+

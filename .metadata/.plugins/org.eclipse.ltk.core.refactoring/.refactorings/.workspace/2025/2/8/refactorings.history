@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Mini_Project_2&apos; to &apos;Dual-Mode StopWatch file&apos;" description="Rename resource &apos;Mini_Project_2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Mini_Project_2" name="Dual-Mode StopWatch file" stamp="1739862904872" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Dual-Mode StopWatch file&apos; to &apos;Files&apos;" description="Rename resource &apos;Dual-Mode StopWatch file&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Dual-Mode StopWatch file" name="Files" stamp="1739863048246" updateReferences="true"/>
+</session>
